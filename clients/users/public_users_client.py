@@ -9,9 +9,9 @@ class CreateUserDict(TypedDict):
     """
     email: str
     password: str
-    lastname: str
-    firstname: str
-    middlename: str
+    lastName: str
+    firstName: str
+    middleName: str
 
 
 class PublicUsersClient(APIClient):
