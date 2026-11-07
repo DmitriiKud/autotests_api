@@ -1,0 +1,1 @@
+{"uuid": "7f24d180-1e1a-4bff-8300-e623df0f6652", "children": ["0daa0908-46b5-40d2-97c9-ad6296755db7"], "befores": [{"name": "clear_books_database", "status": "passed", "start": 1793809636570, "stop": 1793809636571}], "afters": [{"name": "clear_books_database::<lambda>", "start": 1793809636571}], "start": 1793809636570, "stop": 1793809636571}

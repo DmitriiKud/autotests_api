@@ -1,7 +1,7 @@
 
 from clients.errors_schema import InternalErrorResponseSchema
 from clients.errors_schema import ValidationErrorResponseSchema, ValidationErrorSchema
-from tools.assertions.base import assert_equal
+from tools.assertions.base import assert_equal, assert_length
 
 
 def assert_validation_error(actual: ValidationErrorSchema, expected: ValidationErrorSchema):
